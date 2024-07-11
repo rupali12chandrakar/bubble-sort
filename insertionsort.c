@@ -6,7 +6,7 @@ int main(){
   int arr[]={ 9,3, 45,8,1,4};
   int size=6;
 
-  for(int i=1;i<size-1;i++){
+  for(int i=1;i<size;i++){
        int temp=arr[i];
        int j=i-1;
     for(;j>=0;j--){
