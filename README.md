@@ -1,2 +1,2 @@
-# bubble-sort
+# SORTING TECHNIQUES
 sorting technique
