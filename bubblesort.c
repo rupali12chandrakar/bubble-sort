@@ -1,3 +1,5 @@
+//c program for sorting an array using bubble sort
+
 #include<stdio.h>
 int main(){
   
@@ -13,10 +15,10 @@ int main(){
        }
      }
   }
-printf("sorted array: ");
+printf("Sorted array: ");
 for (int k=0;k<size;k++){
   
-printf("%d",arr[k]);
+printf("%d ",arr[k]);
 }
   
 return 0;
